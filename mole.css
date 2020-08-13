@@ -1,5 +1,21 @@
 /* Write your CSS here. */
 
+.navbar {
+    display:flex;
+    justify-content: space-between;
+    background-color: #598AEB;
+    height: 50px;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 35px;
+}
+
+.pf {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: 1fr 1fr;
+}
 
 .wgs {
     position: relative;

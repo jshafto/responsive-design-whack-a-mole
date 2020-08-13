@@ -13,7 +13,7 @@ Use positioning, hover effects, transitions, and overflow to implement a playabl
 - Gameplay:
     - [x] All moles hidden initially
     - [x] Moles pop up
-    - [ ] Moles can be whacked
-    - [ ] Mark moles as whacked
-    - [ ] Implement win condition
-    - [ ] Bonus: fast and furious
+    - [x] Moles can be whacked
+    - [x] Mark moles as whacked
+    - [x] Implement win condition
+    - [x] Bonus: fast and furious
