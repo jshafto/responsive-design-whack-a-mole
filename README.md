@@ -11,8 +11,8 @@ Use positioning, hover effects, transitions, and overflow to implement a playabl
     - [x] Animate hiding the mole
     - [x] Set up game field
 - Gameplay:
-    - [ ] All moles hidden initially
-    - [ ] Moles pop up
+    - [x] All moles hidden initially
+    - [x] Moles pop up
     - [ ] Moles can be whacked
     - [ ] Mark moles as whacked
     - [ ] Implement win condition
